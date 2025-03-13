@@ -6,8 +6,6 @@ This repository contains a structured list of topics and subtopics for placement
 - **Computer Networking**
 - **Operating Systems**
 
-Each section is tailored for SDE roles and focuses on the most important concepts frequently asked in interviews.
-
 ---
 
 ## 1. Object-Oriented Programming System (OOPS)
